@@ -1,0 +1,3 @@
+1, Default Theme, The default game theme, #000000,images1/theme_fir.jpg
+2, Forest Theme, A lush green forest background, #00FF00,images1/theme1.jpg
+3, Space Theme, Dark space with stars, #000033,images1/theme2.jpg
